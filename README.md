@@ -70,17 +70,18 @@
     <summary><h2 style="display: inline-block">Tecnologías que conozco👨🏻‍💻</h2></summary>
   </ul>
 </div>
-<summary>Tools</summary>
+
 <div>
   <p style="display: inline-block;" align="center">
     <kbd>
-      <kbd>Programming Languages</kbd>
+      <kbd>Lenguajes de programación</kbd>
       <br>
       <br>
       <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" alt="cpp" title="C++" /> 
-      <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="js" title="Javascript"/> 
-      <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="py" title="Python"/> 
-      <img width="30" src="https://user-images.githubusercontent.com/25181517/121405384-444d7300-c95d-11eb-959f-913020d3bf90.png" alt="C#" title="C#"/>
+      <img width="30px" src="https://icongr.am/devicon/javascript-original.svg?size=128&color=currentColor" alt="js" title="Javascript"/> 
+      <img width="30px" src="https://icongr.am/devicon/python-original.svg?size=128&color=currentColor" alt="py" title="Python"/> 
+      <img width="30" src="https://icongr.am/devicon/java-original.svg?size=128&color=currentColor" alt="java" title="java"/>
+      <img width="30" src="https://icongr.am/devicon/php-original.svg?size=128&color=currentColor" alt="php" title="php"/>
     </kbd>
     <kbd>
       <kbd>Back-end</kbd>
