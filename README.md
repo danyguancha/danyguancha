@@ -21,9 +21,8 @@
 <!--Intro start-->
 - 💻 Actualmente estoy estudiando **Ingeniería de sistemas y computación**
 
-- 🔭 Estoy trabajando en **AWS, React, React Native, Nodejs, MongoDB**
+- 🔭 He trabajado con **AWS, React, Nodejs, MongoDB, Python, Java, Angular, MySQL, Unity, PostgreSQL, Laravel, PHP**
 
-- ☁️ Tengo gran interés en la computación en la nube. Entonces, estoy aprendiendo **AWS**
 
 - 📫 No dudes en comunicarte conmigo **danyguancha3005@gmail.com**
 
